@@ -7,13 +7,14 @@
     "build": "tsc",
     "start:index": "node dist/index.js",
     "start:01-basics": "node src/01-basics.ts",
-    "start:02": "node src/02-arrays.ts",
+    "start:02": "node src/02-functions.ts",
+    "start:03": "node src/03-interfaces.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "typescript": "^5.9.3"
   }
