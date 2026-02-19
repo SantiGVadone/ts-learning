@@ -1,0 +1,30 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node --watch build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "5.0.6",
+    "ts-node-dev": "2.0.0",
+    "ts-standard": "^12.0.2",
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "project": "./tsconfig.json"
+    },
+    "extends":["./node_modules/ts-standard/eslintrc.json"]
+  }
+}

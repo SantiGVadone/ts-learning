@@ -1,0 +1,11 @@
+### CREAR UN NUEVO DAILY 
+POST http://localhost:3000/api/diaries
+Content-Type: application/json
+
+{
+  "sql" : "SELECT * FROM USERS",
+  "date": "2026-01-19",
+  "weather": "cloudy",
+  "visibility": "good",
+  "comment": "Dia nublado ideal para programar."
+}
