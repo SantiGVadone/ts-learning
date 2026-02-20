@@ -4,5 +4,7 @@ https://www.youtube.com/watch?v=ZpY5KdGQvwI
 ME QUEDE EN EL MINUTO 1:24:00 DE ESE VIDEO ASI QUE ESTOY CASI POR TERMINARLO DESPUES VOY A PRACTICAR A HACER UNA API SIN AYUDA Y CON TS
 
 
-
+Ya fui viendo un video de como hacer una app desde cero en react, pero tendria que ver este: 
 ESTE ES EL VIDEO DE TS Y REACT PARA DESPUES: https://www.youtube.com/watch?v=15VKbky2gB4
+
+
